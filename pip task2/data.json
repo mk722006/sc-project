@@ -1,0 +1,12 @@
+{
+    "DT_RowId": "row_1",
+    "users": {
+        "first_name": "Quynn",
+        "last_name": "Contreras",
+        "phone": "1-971-977-4681",
+        "site": "1"
+    },
+    "sites": {
+        "name": "Edinburgh"
+    }
+}
