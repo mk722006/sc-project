@@ -34,11 +34,11 @@ QUEUE_URL = 'https://sqs.us-east-2.amazonaws.com/339834084992/scus-glue-etl-prod
 LOG_QUEUE_URL = 'https://sqs.us-east-2.amazonaws.com/339834084992/scus-etl-glue-logging.fifo'
 LOG_TABLE = "import.glue_etl_logs"
 
-JDBC_URL = "jdbc:redshift://reds-learning.cbrszyzljcmo.us-east-2.redshift.amazonaws.com:5439/hkhandelwal"
+JDBC_URL = "jdbc:redshift://reds-learning.cbrszyzljcmo.us-east-2.redshift.amazonaws.com:"
 DRIVER = "com.amazon.redshift.jdbc.Driver"
 CONFIG_TABLE = "import.config_ahp"
-USER = "hkhandelwal"
-PASSWORD = "VIUEhgal#1088658"
+USER = "Your_userName"
+PASSWORD = "Your_password"
 
 EMAIL_CONFIG_TABLE = "import.glue_etl_email"
 
